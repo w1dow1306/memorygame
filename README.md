@@ -1,1 +1,1 @@
-![alt Text](../pmg/file.jpeg)
+![alt Text](./pmg/file.jpeg)
